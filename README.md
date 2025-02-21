@@ -6,3 +6,4 @@
 
 [2025/02/14 Lab2 part2 and Exam1_review](https://github.com/myuanqing/CMPEN331_Spring2025/blob/main/lab2_2_exam1.pdf)
 
+[2025/02/21 Lab2 part2 and Chapter3_review](https://github.com/myuanqing/CMPEN331_Spring2025/blob/main/ch3_review.pdf)
