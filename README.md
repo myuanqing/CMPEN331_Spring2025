@@ -8,6 +8,8 @@
 
 [2025/02/21 Lab2 part2 and Chapter3_review](https://github.com/myuanqing/CMPEN331_Spring2025/blob/main/ch3_review.pdf)
 
+[2025/02/28 Lab3](https://github.com/myuanqing/CMPEN331_Spring2025/blob/main/lab3.pdf)
+
 [Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBg263UxFEtSVjwVwt9kFdxCPdAS8V7sm343LmUgPOTGZFVw/viewform?usp=header)
 ![image](https://github.com/user-attachments/assets/b7274b44-16bc-4dd1-a331-018727214013)
 
