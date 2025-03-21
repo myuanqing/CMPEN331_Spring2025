@@ -10,7 +10,9 @@
 
 [2025/02/28 Lab3](https://github.com/myuanqing/CMPEN331_Spring2025/blob/main/lab3.pdf)
 
-[2025/03/07 Chapter3_Review1](https://github.com/myuanqing/CMPEN331_Spring2025/blob/main/Ch4_review1.pdf)
+[2025/03/07 Chapter4_Review1](https://github.com/myuanqing/CMPEN331_Spring2025/blob/main/Ch4_review1.pdf)
+
+[2025/03/07 Chapter4_Review2](https://github.com/myuanqing/CMPEN331_Spring2025/blob/main/Ch4_review2.pdf)
 
 [Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBg263UxFEtSVjwVwt9kFdxCPdAS8V7sm343LmUgPOTGZFVw/viewform?usp=header)
 ![image](https://github.com/user-attachments/assets/b7274b44-16bc-4dd1-a331-018727214013)
